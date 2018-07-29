@@ -8,3 +8,7 @@ git clone https://github.com/sabasathya/Training.git
    git add Readme 
    git commit -m "Test file for commit"
    git push
+
+### Discard changes to a file in workspace
+
+git checkout -- <filename>
