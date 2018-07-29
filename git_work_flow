@@ -1,0 +1,10 @@
+   
+#######Clone a Repository ( One time)
+git clone https://github.com/sabasathya/Training.git
+
+
+####Add/Edit a file  and Push the changes into the repository
+   vi Readme
+   git add Readme 
+   git commit -m "Test file for commit"
+   git push
